@@ -4,15 +4,18 @@
   <br>
   <h3>
     <img width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/><br>
-    안녕하세요!
+    Hello!
   </h3>
   <p>
-    취업을 준비하고 있는 초보 개발자, JELEE 입니다.<br>
-    국비지원 무료 교육을 통해 6개월간의 풀스택 과정을 수료하였고,<br>
-    개인 미니 프로젝트와 팀 프로젝트를 경험했습니다.<br><br>
-    프론트엔드와 백엔드 모두 개발 가능하며,<br>
-    특히 <b>백엔드 분야에 더 큰 관심과 열정을 가지고 있습니다.</b><br><br>
-    👉 <a href="https://honey-plant-22e.notion.site/dev-jelee-5686cfa35c1b4c859a27de25d5fad5dd">자세한 이력서 및 포트폴리오 설명은 노션을 참고해주세요!</a>
+    I'm JELEE, an entry-level developer currently studying backend development and preparing for my first job.<br>
+    I completed a 6-month full-stack course through a government-funded education program,<br>
+    and have worked on both personal mini-projects and team projects.<br><br>
+
+    I am capable of both frontend and backend development,<br>
+    with a particular interest and passion for the backend field.<br>
+
+    📄 For a detailed resume and portfolio, please refer to my Notion page:<br> 
+    👉 <a href="https://honey-plant-22e.notion.site/dev-jelee-5686cfa35c1b4c859a27de25d5fad5dd">Notion Resume&Portfolio</a>
     <br><br>
     <a href="https://www.instagram.com/jelee_day/"><img height="22" width="22" src="https://cdn.simpleicons.org/instagram" /></a>&nbsp&nbsp&nbsp
     <a href="mailto:waftyann@gmail.com"><img height="22" width="22" src="https://cdn.simpleicons.org/gmail" /></a>&nbsp&nbsp&nbsp
@@ -22,10 +25,10 @@
 
   <br>
   
-  <h3>🛠️ 기술 스택</h3>
+  <h3>🛠️ Tech Stack</h3>
   <p>
     <b>Frontend:</b> HTML5, CSS3, JavaScript, jQuery, React<br>
-    <b>Backend:</b> Java, Spring Boot, MyBatis, RESTful API 및 CRUD 기능 구현 경험<br>
+    <b>Backend:</b> Java, Spring Boot, MyBatis, Experience in implementing RESTful APIs and CRUD functionalities<br>
     <b>Database & DevOps:</b> MySQL, Docker, AWS Lightsail
   </p>
 </div>
