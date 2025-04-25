@@ -9,11 +9,11 @@
   <p>
     I'm JELEE, an entry-level developer currently studying backend development and preparing for my first job.<br>
     I completed a 6-month full-stack course through a government-funded education program,<br>
-    and have worked on both personal mini-projects and team projects.<br><br>
-
+    and have worked on both personal mini-projects and team projects.
+    <br><br>
     I am capable of both frontend and backend development,<br>
-    with a particular interest and passion for the backend field.<br>
-
+    with a particular interest and passion for the backend field.
+    <br>
     📄 For a detailed resume and portfolio, please refer to my Notion page:<br> 
     👉 <a href="https://honey-plant-22e.notion.site/dev-jelee-5686cfa35c1b4c859a27de25d5fad5dd">Notion Resume&Portfolio</a>
     <br><br>
