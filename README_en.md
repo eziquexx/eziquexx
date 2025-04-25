@@ -13,9 +13,9 @@
     <br><br>
     I am capable of both frontend and backend development,<br>
     with a particular interest and passion for the backend field.
-    <br>
-    📄 For a detailed resume and portfolio, please refer to my Notion page:<br> 
-    👉 <a href="https://honey-plant-22e.notion.site/dev-jelee-5686cfa35c1b4c859a27de25d5fad5dd">Notion Resume&Portfolio</a>
+    <br><br>
+    👉 <b>For a detailed resume and portfolio, please refer to my Notion page!</b><br> 
+    <a href="https://honey-plant-22e.notion.site/dev-jelee-5686cfa35c1b4c859a27de25d5fad5dd">Notion Resume&Portfolio</a>
     <br><br>
     <a href="https://www.instagram.com/jelee_day/"><img height="22" width="22" src="https://cdn.simpleicons.org/instagram" /></a>&nbsp&nbsp&nbsp
     <a href="mailto:waftyann@gmail.com"><img height="22" width="22" src="https://cdn.simpleicons.org/gmail" /></a>&nbsp&nbsp&nbsp
