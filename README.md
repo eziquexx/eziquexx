@@ -13,7 +13,7 @@
     프론트엔드와 백엔드 모두 개발 가능하며,<br>
     특히 <b>백엔드 분야에 더 큰 관심과 열정을 가지고 있습니다.</b><br><br>
     👉 <b>자세한 이력서 및 포트폴리오 설명은 노션을 참고해주세요!</b><br>
-    <a href="https://honey-plant-22e.notion.site/dev-jelee-5686cfa35c1b4c859a27de25d5fad5dd">Notion Resume&Portfolio</a>
+    <a href="https://dev-jelee.notion.site/dev-jelee-5686cfa35c1b4c859a27de25d5fad5dd?pvs=4">Notion Resume&Portfolio</a>
     <br><br>
     <a href="https://www.instagram.com/jelee_day/"><img height="22" width="22" src="https://cdn.simpleicons.org/instagram" /></a>&nbsp&nbsp&nbsp
     <a href="mailto:waftyann@gmail.com"><img height="22" width="22" src="https://cdn.simpleicons.org/gmail" /></a>&nbsp&nbsp&nbsp
