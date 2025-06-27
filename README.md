@@ -7,11 +7,27 @@
     안녕하세요!
   </h3>
   <p>
-    취업을 준비하고 있는 초보 개발자, JELEE 입니다.<br>
-    국비지원 무료 교육을 통해 6개월간의 풀스택 과정을 수료하였고,<br>
-    개인 미니 프로젝트와 팀 프로젝트를 경험했습니다.<br><br>
-    프론트엔드와 백엔드 모두 개발 가능하며,<br>
-    특히 <b>백엔드 분야에 더 큰 관심과 열정을 가지고 있습니다.</b><br><br>
+    개발자 취업하기 위해 노력하고 있는 JELEE 입니다.<br>
+    국비지원 무료 교육을 통해 6개월간의 풀스택 과정을 수료하였습니다. <br><br>
+  </p>
+  <h4>👀 이야기</h4>
+  <p>
+    프론트엔드와 백엔드 모두 개발 경험이 있으며<br>
+    특히 <b><i>백엔드 분야에 더 큰 관심과 열정</i></b> 을 가지고 있습니다.<br>
+    그래서 Java와 SpringBoot를 공부하고 있고, 👉<a href="https://dev-jelee.tistory.com/">Tistory</a>👈에 <b>기록</b>하고 있습니다.</b><br><br>
+  </p>
+  <h4>솔직히..</h4>
+  <p>
+    자신있는 기술은 Frontend 쪽입니다.<br>
+    HTML5, CSS3, JavaScript를 먼저 접하였기 때문입니다.<br><br>
+  </p>
+  <h4>왜???</h4>
+  <p>
+    <b>Forntend</b>는 내가 구현한 결과를 눈으로 바로 확인할 수 있다는 점에서 매력적이고 재밌습니다.<br>
+    <b>Backend</b>는 눈에 바로 보이지는 않지만, 어떻게 동작하게 만들지, <br>어떻게 데이터를 효율적으로 처리하고 저장할지, 어떻게 예외 상황을 처리할지 등 고민하고 <br>풀어나가는 과정이 재밌습니다.<br><br>
+  </p>
+ 
+  <p>
     👉 <b>자세한 이력서 및 포트폴리오 설명은 노션에 있습니다!</b><br>
     <a href="https://dev-jelee.notion.site/dev-jelee-5686cfa35c1b4c859a27de25d5fad5dd?pvs=4">Notion Resume&Portfolio</a>
     <br><br>
@@ -22,7 +38,7 @@
 
   <br>
   
-  <h3>🛠️ 기술 스택</h3>
+  <h3>🛠️ 사용해본 기술</h3>
   <p>
     <b>Frontend:</b> HTML5, CSS3, JavaScript, jQuery, React<br>
     <b>Backend:</b> Java, Spring Boot, MyBatis, RESTful API 및 CRUD 기능 구현 경험<br>
