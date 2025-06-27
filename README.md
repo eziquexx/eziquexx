@@ -55,6 +55,7 @@
       <th>설명</th>
       <th>사용언어</th>
       <th>Repo</th>
+      <th>Site</th>
     </thead>
     <tbody>
       <tr>
@@ -63,6 +64,7 @@
         <td>객실 예약 및 결제 시스템 + 관리 시스템</td>
         <td>React, Spring Boot</td>
         <td><a href="https://github.com/eziquexx/mini-yoga-website">이동</a></td>
+        <td><a href="http://52.78.8.37/">이동</a></td>
       </tr>
       <tr>
         <th>Mini</th>
@@ -70,6 +72,7 @@
         <td>요가원 리뉴얼 반응형+싱글페이지</td>
         <td>HTML5, CSS3, JavaScript</td>
         <td><a href="https://github.com/eziquexx/mini-yoga-website">이동</a></td>
+        <td><a href="https://eziquexx.github.io/mini-yoga-website/">이동</a></td>
       </tr>
       <tr>
         <th>Mini</th>
@@ -77,6 +80,7 @@
         <td>반응형+동적 구현(JavaScript)</td>
         <td>HTML5, CSS3, JavaScript</td>
         <td><a href="https://github.com/eziquexx/mini-personal-website">이동</a></td>
+        <td><a href="https://eziquexx.github.io/mini-personal-website/">이동</a></td>
       </tr>
       <tr>
         <th>Mini</th>
@@ -84,6 +88,7 @@
         <td>할 일 목록을 추가/삭제/관리</td>
         <td>React</td>
         <td><a href="https://github.com/eziquexx/mini-react-todo-lis">이동</a></td>
+        <td><a href="https://eziquexx.github.io/mini-react-todo-list/">이동</a></td>
       </tr>
       <tr>
         <th>Toy</th>
@@ -91,6 +96,7 @@
         <td>나라별 국기 맞추기 게임</td>
         <td>HTML5, CSS3, JavaScript</td>
         <td><a href="https://github.com/eziquexx/mini-random-flag-quiz">이동</a></td>
+        <td><a href="https://eziquexx.github.io/mini-random-flag-quiz/">이동</a></td>
       </tr>
     </tbody>
   </table>
