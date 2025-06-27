@@ -73,6 +73,13 @@
       </tr>
       <tr>
         <th>Mini</th>
+        <th>개인 포트폴리오 웹사이트</th>
+        <td>반응형+동적 구현(JavaScript)</td>
+        <td>HTML5, CSS3, JavaScript</td>
+        <td><a href="https://github.com/eziquexx/mini-personal-website">이동</a></td>
+      </tr>
+      <tr>
+        <th>Mini</th>
         <th>Todo List</th>
         <td>할 일 목록을 추가/삭제/관리</td>
         <td>React</td>
