@@ -21,9 +21,9 @@
     자신있는 기술은 Frontend 쪽입니다.<br>
     HTML5, CSS3, JavaScript를 먼저 접하였기 때문입니다.<br><br>
   </p>
-  <h4>왜???</h4>
+  <h4>개발 재밌음!!</h4>
   <p>
-    <b>Forntend</b>는 내가 구현한 결과를 눈으로 바로 확인할 수 있다는 점에서 매력적이고 재밌습니다.<br>
+    <b>Forntend</b>는 내가 구현한 결과를 눈으로 바로 확인할 수 있다는 점이 매력적이고 재밌습니다.<br>
     <b>Backend</b>는 눈에 바로 보이지는 않지만, 어떻게 동작하게 만들지, <br>어떻게 데이터를 효율적으로 처리하고 저장할지, 어떻게 예외 상황을 처리할지 등 고민하고 <br>풀어나가는 과정이 재밌습니다.<br><br>
   </p>
  
@@ -38,7 +38,7 @@
 
   <br>
   
-  <h3>🛠️ 사용해본 기술</h3>
+  <h3>🛠️ 경험해본 기술</h3>
   <p>
     <b>Frontend:</b> HTML5, CSS3, JavaScript, jQuery, React<br>
     <b>Backend:</b> Java, Spring Boot, MyBatis, RESTful API 및 CRUD 기능 구현 경험<br>
@@ -50,6 +50,7 @@
   <h3>🌳 프로젝트</h3>
   <table>
     <thead>
+      <th>기간</th>
       <th>형태</th>
       <th>이름</th>
       <th>설명</th>
@@ -59,22 +60,34 @@
     </thead>
     <tbody>
       <tr>
+        <th>25.07~25.07</th>
+        <th>Toy</th>
+        <th>도서 관리 시스템 (CLI)</th>
+        <td>Java를 활용한 도서 관리 시스템</td>
+        <td>Java (CLI)</td>
+        <td><a href="https://github.com/eziquexx/study-java/tree/main/mini-projects/library-book-manager">이동</a></td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <th>25.06~25.06</th>
+        <th>Toy</th>
+        <th>JWT기반 로그인</th>
+        <td>JWT+Spirng Boot 활용한 인증/인가</td>
+        <td>JWT, Spring Boot</td>
+        <td><a href="https://github.com/eziquexx/toy-auth-jwt-jpa">이동</a></td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <th>24.11~24.12</th>
         <th>Team</th>
         <th>호텔PMS</th>
         <td>객실 예약 및 결제 시스템 + 관리 시스템</td>
         <td>React, Spring Boot</td>
-        <td><a href="https://github.com/eziquexx/mini-yoga-website">이동</a></td>
+        <td><a href="https://github.com/eziquexx/team-hotel-reservation-backend">이동</a></td>
         <td><a href="http://52.78.8.37/">이동</a></td>
       </tr>
       <tr>
-        <th>Mini</th>
-        <th>요가원 싱글페이지</th>
-        <td>요가원 리뉴얼 반응형+싱글페이지</td>
-        <td>HTML5, CSS3, JavaScript</td>
-        <td><a href="https://github.com/eziquexx/mini-yoga-website">이동</a></td>
-        <td><a href="https://eziquexx.github.io/mini-yoga-website/">이동</a></td>
-      </tr>
-      <tr>
+        <th>24.09~24.09</th>
         <th>Mini</th>
         <th>개인 포트폴리오 웹사이트</th>
         <td>반응형+동적 구현(JavaScript)</td>
@@ -83,14 +96,25 @@
         <td><a href="https://eziquexx.github.io/mini-personal-website/">이동</a></td>
       </tr>
       <tr>
+        <th>24.06~24.08</th>
+        <th>Mini</th>
+        <th>요가원 싱글페이지</th>
+        <td>요가원 리뉴얼 반응형+싱글페이지</td>
+        <td>HTML5, CSS3, JavaScript</td>
+        <td><a href="https://github.com/eziquexx/mini-yoga-website">이동</a></td>
+        <td><a href="https://eziquexx.github.io/mini-yoga-website/">이동</a></td>
+      </tr>
+      <tr>
+        <th>24.08~24.08</th>
         <th>Mini</th>
         <th>Todo List</th>
         <td>할 일 목록을 추가/삭제/관리</td>
         <td>React</td>
-        <td><a href="https://github.com/eziquexx/mini-react-todo-lis">이동</a></td>
+        <td><a href="https://github.com/eziquexx/mini-react-todo-list">이동</a></td>
         <td><a href="https://eziquexx.github.io/mini-react-todo-list/">이동</a></td>
       </tr>
       <tr>
+        <th>24.06~24.07</th>
         <th>Toy</th>
         <th>랜덤 깃발 게임</th>
         <td>나라별 국기 맞추기 게임</td>
@@ -109,17 +133,20 @@
       <th>이름</th>
       <th>설명</th>
       <th>Repo</th>
+      <th>정리</th>
     </thead>
     <tbody>
       <tr>
         <th>Java with ChatGPT</th>
         <td>ChatGPT 활용하여 Java 공부중</td>
         <td><a href="https://github.com/eziquexx/study-java">이동</a></td>
+        <td><a href="https://dev-jelee.tistory.com/category/%EA%B0%9C%EB%B0%9C%20%EA%B3%B5%EB%B6%80/Java%20%7C%20SpringBoot">이동</a></td>
       </tr>
       <tr>
         <th>코딩테스트</th>
         <td>틈틈히 문제 풀어보며 공부중 (Java위주)</td>
         <td><a href="https://github.com/eziquexx/study-coding-tests">이동</a></td>
+        <td><a href="https://dev-jelee.tistory.com/category/%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8">이동</a></td>
       </tr>
     </tbody>
   </table>
