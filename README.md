@@ -48,105 +48,107 @@
   <br>
   
   <h3>🌳 프로젝트</h3>
-  <table>
-    <thead>
-      <th>기간</th>
-      <th>형태</th>
-      <th>이름</th>
-      <th>설명</th>
-      <th>사용언어</th>
-      <th>Repo</th>
-      <th>Site</th>
-    </thead>
-    <tbody>
-      <tr>
-        <th>25.07~25.07</th>
-        <th>Toy</th>
-        <th>도서 관리 시스템 (CLI)</th>
-        <td>Java를 활용한 도서 관리 시스템</td>
-        <td>Java (CLI)</td>
-        <td><a href="https://github.com/eziquexx/study-java/tree/main/mini-projects/library-book-manager">이동</a></td>
-        <td>-</td>
-      </tr>
-      <tr>
-        <th>25.06~25.06</th>
-        <th>Toy</th>
-        <th>JWT기반 로그인</th>
-        <td>JWT+Spirng Boot 활용한 인증/인가</td>
-        <td>JWT, Spring Boot</td>
-        <td><a href="https://github.com/eziquexx/toy-auth-jwt-jpa">이동</a></td>
-        <td>-</td>
-      </tr>
-      <tr>
-        <th>24.11~24.12</th>
-        <th>Team</th>
-        <th>호텔PMS</th>
-        <td>객실 예약 및 결제 시스템 + 관리 시스템</td>
-        <td>React, Spring Boot</td>
-        <td><a href="https://github.com/eziquexx/team-hotel-reservation-backend">이동</a></td>
-        <td><a href="http://52.78.8.37/">이동</a></td>
-      </tr>
-      <tr>
-        <th>24.09~24.09</th>
-        <th>Mini</th>
-        <th>개인 포트폴리오 웹사이트</th>
-        <td>반응형+동적 구현(JavaScript)</td>
-        <td>HTML5, CSS3, JavaScript</td>
-        <td><a href="https://github.com/eziquexx/mini-personal-website">이동</a></td>
-        <td><a href="https://eziquexx.github.io/mini-personal-website/">이동</a></td>
-      </tr>
-      <tr>
-        <th>24.06~24.08</th>
-        <th>Mini</th>
-        <th>요가원 싱글페이지</th>
-        <td>요가원 리뉴얼 반응형+싱글페이지</td>
-        <td>HTML5, CSS3, JavaScript</td>
-        <td><a href="https://github.com/eziquexx/mini-yoga-website">이동</a></td>
-        <td><a href="https://eziquexx.github.io/mini-yoga-website/">이동</a></td>
-      </tr>
-      <tr>
-        <th>24.08~24.08</th>
-        <th>Mini</th>
-        <th>Todo List</th>
-        <td>할 일 목록을 추가/삭제/관리</td>
-        <td>React</td>
-        <td><a href="https://github.com/eziquexx/mini-react-todo-list">이동</a></td>
-        <td><a href="https://eziquexx.github.io/mini-react-todo-list/">이동</a></td>
-      </tr>
-      <tr>
-        <th>24.06~24.07</th>
-        <th>Toy</th>
-        <th>랜덤 깃발 게임</th>
-        <td>나라별 국기 맞추기 게임</td>
-        <td>HTML5, CSS3, JavaScript</td>
-        <td><a href="https://github.com/eziquexx/mini-random-flag-quiz">이동</a></td>
-        <td><a href="https://eziquexx.github.io/mini-random-flag-quiz/">이동</a></td>
-      </tr>
-    </tbody>
-  </table>
+  <div>
+    <table>
+      <thead>
+        <th>&nbsp;&nbsp;기&nbsp;&nbsp;간&nbsp;&nbsp;</th>
+        <th>&nbsp;&nbsp;형&nbsp;&nbsp;태&nbsp;&nbsp;</th>
+        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;이&nbsp;&nbsp;름&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;설&nbsp;&nbsp;명&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;사&nbsp;용&nbsp;언&nbsp;어&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th>&nbsp;Repo&nbsp;</th>
+        <th>&nbsp;Site&nbsp;</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center">25.07~25.07</td>
+          <td align="center">Toy</td>
+          <td align="center">도서 관리 시스템</td>
+          <td>Java를 활용한 CLI 기반 도서 관리 시스템</td>
+          <td align="center">Java</td>
+          <td align="center"><a href="https://github.com/eziquexx/study-java/tree/main/mini-projects/library-book-manager">이동</a></td>
+          <td align="center">-</td>
+        </tr>
+        <tr>
+          <td align="center">25.06~25.06</td>
+          <td align="center">Toy</td>
+          <td align="center">JWT기반 로그인</td>
+          <td>JWT+Spirng Boot 활용한 인증/인가</td>
+          <td align="center">JWT, Spring Boot</td>
+          <td align="center"><a href="https://github.com/eziquexx/toy-auth-jwt-jpa">이동</a></td>
+          <td align="center">-</td>
+        </tr>
+        <tr>
+          <td align="center">24.11~24.12</td>
+          <td align="center">Team</td>
+          <td align="center">호텔PMS</td>
+          <td>객실 예약 및 결제 시스템 + 관리 시스템</td>
+          <td align="center">React, Spring Boot</td>
+          <td align="center"><a href="https://github.com/eziquexx/team-hotel-reservation-backend">이동</a></td>
+          <td align="center"><a href="http://52.78.8.37/">이동</a></td>
+        </tr>
+        <tr>
+          <td align="center">24.09~24.09</td>
+          <td align="center">Mini</td>
+          <td align="center">개인 포폴 웹사이트</td>
+          <td>반응형+동적 구현(JavaScript)</td>
+          <td align="center">HTML5, CSS3, JavaScript</td>
+          <td align="center"><a href="https://github.com/eziquexx/mini-personal-website">이동</a></td>
+          <td align="center"><a href="https://eziquexx.github.io/mini-personal-website/">이동</a></td>
+        </tr>
+        <tr>
+          <td align="center">24.06~24.08</td>
+          <td align="center">Mini</td>
+          <td align="center">요가원 싱글페이지</td>
+          <td>요가원 리뉴얼 반응형+싱글페이지</td>
+          <td align="center">HTML5, CSS3, JavaScript</td>
+          <td align="center"><a href="https://github.com/eziquexx/mini-yoga-website">이동</a></td>
+          <td align="center"><a href="https://eziquexx.github.io/mini-yoga-website/">이동</a></td>
+        </tr>
+        <tr>
+          <td align="center">24.08~24.08</td>
+          <td align="center">Mini</td>
+          <td align="center">Todo List</td>
+          <td>할 일 목록을 추가/삭제/관리</td>
+          <td align="center">React</td>
+          <td align="center"><a href="https://github.com/eziquexx/mini-react-todo-list">이동</a></td>
+          <td align="center"><a href="https://eziquexx.github.io/mini-react-todo-list/">이동</a></td>
+        </tr>
+        <tr>
+          <td align="center">24.06~24.07</td>
+          <td align="center">Toy</td>
+          <td align="center">랜덤 깃발 게임</td>
+          <td>나라별 국기 맞추기 게임</td>
+          <td align="center">HTML5, CSS3, JavaScript</td>
+          <td align="center"><a href="https://github.com/eziquexx/mini-random-flag-quiz">이동</a></td>
+          <td align="center"><a href="https://eziquexx.github.io/mini-random-flag-quiz/">이동</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
   <br>
   
   <h3>📝 공부중</h3>
   <table>
     <thead>
-      <th>이름</th>
-      <th>설명</th>
-      <th>Repo</th>
-      <th>정리</th>
+      <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;이&nbsp;&nbsp;름&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;설&nbsp;&nbsp;명&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;Repo&nbsp;</th>
+      <th>&nbsp;정&nbsp;리&nbsp;</th>
     </thead>
     <tbody>
       <tr>
-        <th>Java with ChatGPT</th>
+        <td align="center">Java with ChatGPT</td>
         <td>ChatGPT 활용하여 Java 공부중</td>
-        <td><a href="https://github.com/eziquexx/study-java">이동</a></td>
-        <td><a href="https://dev-jelee.tistory.com/category/%EA%B0%9C%EB%B0%9C%20%EA%B3%B5%EB%B6%80/Java%20%7C%20SpringBoot">이동</a></td>
+        <td align="center"><a href="https://github.com/eziquexx/study-java">이동</a></td>
+        <td align="center"><a href="https://dev-jelee.tistory.com/category/%EA%B0%9C%EB%B0%9C%20%EA%B3%B5%EB%B6%80/Java%20%7C%20SpringBoot">이동</a></td>
       </tr>
       <tr>
-        <th>코딩테스트</th>
+        <td align="center">코딩테스트</td>
         <td>틈틈히 문제 풀어보며 공부중 (Java위주)</td>
-        <td><a href="https://github.com/eziquexx/study-coding-tests">이동</a></td>
-        <td><a href="https://dev-jelee.tistory.com/category/%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8">이동</a></td>
+        <td align="center"><a href="https://github.com/eziquexx/study-coding-tests">이동</a></td>
+        <td align="center"><a href="https://dev-jelee.tistory.com/category/%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8">이동</a></td>
       </tr>
     </tbody>
   </table>
