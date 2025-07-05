@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="README.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/kr.png" height="13"> Korean</a>  |
-  <a href="README_en.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/us.png" height="13"> English</a>
-  <br>
   <h3>
     <img width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/><br>
     안녕하세요!
@@ -10,7 +7,94 @@
     개발자 취업하기 위해 노력하고 있는 JELEE 입니다.<br>
     국비지원 무료 교육을 통해 6개월간의 풀스택 과정을 수료하였습니다. <br><br>
   </p>
-  <h4>👀 이야기</h4>
+  <h3>🛠️ 경험해본 기술</h3>
+  <p>
+    <b>Frontend:</b> HTML5, CSS3, JavaScript, jQuery, React<br>
+    <b>Backend:</b> Java, Spring Boot, MyBatis, RESTful API 및 CRUD 기능 구현 경험<br>
+    <b>Database & DevOps:</b> MySQL, Docker, AWS Lightsail
+  </p>
+  <br>
+  <h3>🌳 프로젝트</h3>
+  <table>
+    <thead>
+      <th>&nbsp;&nbsp;기&nbsp;&nbsp;간&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;형&nbsp;&nbsp;태&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;이&nbsp;&nbsp;름&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;설&nbsp;&nbsp;명&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;사&nbsp;용&nbsp;언&nbsp;어&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;Repo&nbsp;</th>
+      <th>&nbsp;Site&nbsp;</th>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">25.07~25.07</td>
+        <td align="center">Toy</td>
+        <td align="center">도서 관리 시스템</td>
+        <td>Java를 활용한 CLI 기반 도서 관리 시스템</td>
+        <td align="center">Java</td>
+        <td align="center"><a href="https://github.com/eziquexx/study-java/tree/main/mini-projects/library-book-manager">이동</a></td>
+        <td align="center">-</td>
+      </tr>
+      <tr>
+        <td align="center">25.06~25.06</td>
+        <td align="center">Toy</td>
+        <td align="center">JWT기반 로그인</td>
+        <td>JWT+Spirng Boot 활용한 인증/인가</td>
+        <td align="center">JWT, Spring Boot</td>
+        <td align="center"><a href="https://github.com/eziquexx/toy-auth-jwt-jpa">이동</a></td>
+        <td align="center">-</td>
+      </tr>
+      <tr>
+        <td align="center">24.11~24.12</td>
+        <td align="center">Team</td>
+        <td align="center">호텔PMS</td>
+        <td>객실 예약 및 결제 시스템 + 관리 시스템</td>
+        <td align="center">React, Spring Boot</td>
+        <td align="center"><a href="https://github.com/eziquexx/team-hotel-reservation-backend">이동</a></td>
+        <td align="center"><a href="http://52.78.8.37/">이동</a></td>
+      </tr>
+      <tr>
+        <td align="center">24.09~24.09</td>
+        <td align="center">Mini</td>
+        <td align="center">개인 포폴 웹사이트</td>
+        <td>반응형+동적 구현(JavaScript)</td>
+        <td align="center">HTML5, CSS3, JavaScript</td>
+        <td align="center"><a href="https://github.com/eziquexx/mini-personal-website">이동</a></td>
+        <td align="center"><a href="https://eziquexx.github.io/mini-personal-website/">이동</a></td>
+      </tr>
+      <tr>
+        <td align="center">24.06~24.08</td>
+        <td align="center">Mini</td>
+        <td align="center">요가원 싱글페이지</td>
+        <td>요가원 리뉴얼 반응형+싱글페이지</td>
+        <td align="center">HTML5, CSS3, JavaScript</td>
+        <td align="center"><a href="https://github.com/eziquexx/mini-yoga-website">이동</a></td>
+        <td align="center"><a href="https://eziquexx.github.io/mini-yoga-website/">이동</a></td>
+      </tr>
+      <tr>
+        <td align="center">24.08~24.08</td>
+        <td align="center">Mini</td>
+        <td align="center">Todo List</td>
+        <td>할 일 목록을 추가/삭제/관리</td>
+        <td align="center">React</td>
+        <td align="center"><a href="https://github.com/eziquexx/mini-react-todo-list">이동</a></td>
+        <td align="center"><a href="https://eziquexx.github.io/mini-react-todo-list/">이동</a></td>
+      </tr>
+      <tr>
+        <td align="center">24.06~24.07</td>
+        <td align="center">Toy</td>
+        <td align="center">랜덤 깃발 게임</td>
+        <td>나라별 국기 맞추기 게임</td>
+        <td align="center">HTML5, CSS3, JavaScript</td>
+        <td align="center"><a href="https://github.com/eziquexx/mini-random-flag-quiz">이동</a></td>
+        <td align="center"><a href="https://eziquexx.github.io/mini-random-flag-quiz/">이동</a></td>
+      </tr>
+    </tbody>
+  </table>
+  <br><br>
+  -----------------------------------------------------------------
+  <br><br>
+  <h3>👀 TMI...</h3>
   <p>
     프론트엔드와 백엔드 모두 개발 경험이 있으며<br>
     특히 <b><i>백엔드 분야에 더 큰 관심과 열정</i></b> 을 가지고 있습니다.<br>
@@ -26,109 +110,15 @@
     <b>Forntend</b>는 내가 구현한 결과를 눈으로 바로 확인할 수 있다는 점이 매력적이고 재밌습니다.<br>
     <b>Backend</b>는 눈에 바로 보이지는 않지만, 어떻게 동작하게 만들지, <br>어떻게 데이터를 효율적으로 처리하고 저장할지, 어떻게 예외 상황을 처리할지 등 고민하고 <br>풀어나가는 과정이 재밌습니다.<br><br>
   </p>
- 
   <p>
     👉 <b>자세한 이력서 및 포트폴리오 설명은 노션에 있습니다!</b><br>
-    <a href="https://dev-jelee.notion.site/dev-jelee-5686cfa35c1b4c859a27de25d5fad5dd?pvs=4">Notion Resume&Portfolio</a>
+    <a href="https://dev-jelee.notion.site/dev-jelee-5686cfa35c1b4c859a27de25d5fad5dd?source=copy_link">Notion Resume&Portfolio</a>
     <br><br>
     <a href="mailto:waftyann@gmail.com"><img height="22" width="22" src="https://cdn.simpleicons.org/gmail" /></a>&nbsp&nbsp&nbsp
     <a href="https://dev-jelee.tistory.com/"><img height="19" width="19" src="https://cdn.simpleicons.org/tistory/orangered" /></a>&nbsp&nbsp&nbsp
     <a href="https://discordapp.com/users/1334168876505763872"><img height="24" width="24" src="https://cdn.simpleicons.org/discord" /></a>
   </p>
-
   <br>
-  
-  <h3>🛠️ 경험해본 기술</h3>
-  <p>
-    <b>Frontend:</b> HTML5, CSS3, JavaScript, jQuery, React<br>
-    <b>Backend:</b> Java, Spring Boot, MyBatis, RESTful API 및 CRUD 기능 구현 경험<br>
-    <b>Database & DevOps:</b> MySQL, Docker, AWS Lightsail
-  </p>
-
-  <br>
-  
-  <h3>🌳 프로젝트</h3>
-  <div>
-    <table>
-      <thead>
-        <th>&nbsp;&nbsp;기&nbsp;&nbsp;간&nbsp;&nbsp;</th>
-        <th>&nbsp;&nbsp;형&nbsp;&nbsp;태&nbsp;&nbsp;</th>
-        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;이&nbsp;&nbsp;름&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;설&nbsp;&nbsp;명&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;사&nbsp;용&nbsp;언&nbsp;어&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-        <th>&nbsp;Repo&nbsp;</th>
-        <th>&nbsp;Site&nbsp;</th>
-      </thead>
-      <tbody>
-        <tr>
-          <td align="center">25.07~25.07</td>
-          <td align="center">Toy</td>
-          <td align="center">도서 관리 시스템</td>
-          <td>Java를 활용한 CLI 기반 도서 관리 시스템</td>
-          <td align="center">Java</td>
-          <td align="center"><a href="https://github.com/eziquexx/study-java/tree/main/mini-projects/library-book-manager">이동</a></td>
-          <td align="center">-</td>
-        </tr>
-        <tr>
-          <td align="center">25.06~25.06</td>
-          <td align="center">Toy</td>
-          <td align="center">JWT기반 로그인</td>
-          <td>JWT+Spirng Boot 활용한 인증/인가</td>
-          <td align="center">JWT, Spring Boot</td>
-          <td align="center"><a href="https://github.com/eziquexx/toy-auth-jwt-jpa">이동</a></td>
-          <td align="center">-</td>
-        </tr>
-        <tr>
-          <td align="center">24.11~24.12</td>
-          <td align="center">Team</td>
-          <td align="center">호텔PMS</td>
-          <td>객실 예약 및 결제 시스템 + 관리 시스템</td>
-          <td align="center">React, Spring Boot</td>
-          <td align="center"><a href="https://github.com/eziquexx/team-hotel-reservation-backend">이동</a></td>
-          <td align="center"><a href="http://52.78.8.37/">이동</a></td>
-        </tr>
-        <tr>
-          <td align="center">24.09~24.09</td>
-          <td align="center">Mini</td>
-          <td align="center">개인 포폴 웹사이트</td>
-          <td>반응형+동적 구현(JavaScript)</td>
-          <td align="center">HTML5, CSS3, JavaScript</td>
-          <td align="center"><a href="https://github.com/eziquexx/mini-personal-website">이동</a></td>
-          <td align="center"><a href="https://eziquexx.github.io/mini-personal-website/">이동</a></td>
-        </tr>
-        <tr>
-          <td align="center">24.06~24.08</td>
-          <td align="center">Mini</td>
-          <td align="center">요가원 싱글페이지</td>
-          <td>요가원 리뉴얼 반응형+싱글페이지</td>
-          <td align="center">HTML5, CSS3, JavaScript</td>
-          <td align="center"><a href="https://github.com/eziquexx/mini-yoga-website">이동</a></td>
-          <td align="center"><a href="https://eziquexx.github.io/mini-yoga-website/">이동</a></td>
-        </tr>
-        <tr>
-          <td align="center">24.08~24.08</td>
-          <td align="center">Mini</td>
-          <td align="center">Todo List</td>
-          <td>할 일 목록을 추가/삭제/관리</td>
-          <td align="center">React</td>
-          <td align="center"><a href="https://github.com/eziquexx/mini-react-todo-list">이동</a></td>
-          <td align="center"><a href="https://eziquexx.github.io/mini-react-todo-list/">이동</a></td>
-        </tr>
-        <tr>
-          <td align="center">24.06~24.07</td>
-          <td align="center">Toy</td>
-          <td align="center">랜덤 깃발 게임</td>
-          <td>나라별 국기 맞추기 게임</td>
-          <td align="center">HTML5, CSS3, JavaScript</td>
-          <td align="center"><a href="https://github.com/eziquexx/mini-random-flag-quiz">이동</a></td>
-          <td align="center"><a href="https://eziquexx.github.io/mini-random-flag-quiz/">이동</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-
-  <br>
-  
   <h3>📝 공부중</h3>
   <table>
     <thead>
@@ -152,10 +142,8 @@
       </tr>
     </tbody>
   </table>
+  <br><br>
 </div>
-
-
-
 
 
 <!--
