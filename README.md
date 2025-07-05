@@ -1,12 +1,16 @@
 <div align="center">
-  <h3>
-    <img width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/><br>
+  <h1>
+    <img width="32px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/><br>
     안녕하세요!
-  </h3>
+  </h1>
+  <br>
+  <h3>【 개발이 주는 문제 해결의 재미와 창의적인 과정에 매력을 느껴 】<br>개발자가 되고 싶은 이지은 입니다.</h3>
+  <br>
   <p>
-    개발자 취업하기 위해 노력하고 있는 JELEE 입니다.<br>
-    국비지원 무료 교육을 통해 6개월간의 풀스택 과정을 수료하였습니다. <br><br>
+    사람들이 필요로 하는 기능이 무엇인지 고민하고, 그것을 어떻게 구현하고 동작하게 만들지, <br>또 데이터를 어떻게 처리할지 하나하나 생각하며 해결해 나가는 과정에서 큰 성취감을 느낍니다.<br><br>
+    이런 경험이 쌓일수록 개발이 더 흥미롭고, 제 길이라는 확신이 들었습니다.
   </p>
+  <br>
   <h3>🛠️ 경험해본 기술</h3>
   <p>
     <b>Frontend:</b> HTML5, CSS3, JavaScript, jQuery, React<br>
@@ -118,7 +122,9 @@
     <a href="https://dev-jelee.tistory.com/"><img height="19" width="19" src="https://cdn.simpleicons.org/tistory/orangered" /></a>&nbsp&nbsp&nbsp
     <a href="https://discordapp.com/users/1334168876505763872"><img height="24" width="24" src="https://cdn.simpleicons.org/discord" /></a>
   </p>
-  <br>
+  <br><br>
+  -----------------------------------------------------------------
+  <br><br>
   <h3>📝 공부중</h3>
   <table>
     <thead>
