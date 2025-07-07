@@ -95,33 +95,7 @@
       </tr>
     </tbody>
   </table>
-  <br><br>
-  -----------------------------------------------------------------
-  <br><br>
-  <h3>👀 TMI...</h3>
-  <p>
-    프론트엔드와 백엔드 모두 개발 경험이 있으며<br>
-    특히 <b><i>백엔드 분야에 더 큰 관심과 열정</i></b> 을 가지고 있습니다.<br>
-    그래서 Java와 SpringBoot를 공부하고 있고, 👉<a href="https://dev-jelee.tistory.com/">Tistory</a>👈에 <b>기록</b>하고 있습니다.</b><br><br>
-  </p>
-  <h4>솔직히..</h4>
-  <p>
-    자신있는 기술은 Frontend 쪽입니다.<br>
-    HTML5, CSS3, JavaScript를 먼저 접하였기 때문입니다.<br><br>
-  </p>
-  <h4>개발 재밌음!!</h4>
-  <p>
-    <b>Forntend</b>는 내가 구현한 결과를 눈으로 바로 확인할 수 있다는 점이 매력적이고 재밌습니다.<br>
-    <b>Backend</b>는 눈에 바로 보이지는 않지만, 어떻게 동작하게 만들지, <br>어떻게 데이터를 효율적으로 처리하고 저장할지, 어떻게 예외 상황을 처리할지 등 고민하고 <br>풀어나가는 과정이 재밌습니다.<br><br>
-  </p>
-  <h3>이메일 및 개발 블로그</h3>
-  <p>
-    <a href="mailto:waftyann@gmail.com"><img height="22" width="22" src="https://cdn.simpleicons.org/gmail" /></a>&nbsp&nbsp&nbsp
-    <a href="https://dev-jelee.tistory.com/"><img height="19" width="19" src="https://cdn.simpleicons.org/tistory/orangered" /></a>&nbsp&nbsp&nbsp
-  </p>
-  <br><br>
-  -----------------------------------------------------------------
-  <br><br>
+  <br>
   <h3>📝 공부중</h3>
   <table>
     <thead>
@@ -145,6 +119,12 @@
       </tr>
     </tbody>
   </table>
+  <br>
+  <h3>이메일 및 개발 블로그</h3>
+  <p>
+    <a href="mailto:waftyann@gmail.com"><img height="22" width="22" src="https://cdn.simpleicons.org/gmail" /></a>&nbsp&nbsp&nbsp
+    <a href="https://dev-jelee.tistory.com/"><img height="19" width="19" src="https://cdn.simpleicons.org/tistory/orangered" /></a>&nbsp&nbsp&nbsp
+  </p>
   <br><br>
 </div>
 
