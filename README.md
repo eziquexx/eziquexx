@@ -15,7 +15,7 @@
   <p>
     <b>Frontend:</b> HTML5, CSS3, JavaScript, jQuery, React<br>
     <b>Backend:</b> Java, Spring Boot, MyBatis, RESTful API 및 CRUD 기능 구현 경험<br>
-    <b>Database & DevOps:</b> MySQL, Docker, AWS Lightsail
+    <b>Database & DevOps:</b> MySQL, Docker, AWS LightSail
   </p>
   <br>
   <h3>🌳 프로젝트</h3>
@@ -53,7 +53,7 @@
         <td align="center">Team</td>
         <td align="center">호텔PMS</td>
         <td>객실 예약 및 결제 시스템 + 관리 시스템</td>
-        <td align="center">React, Spring Boot</td>
+        <td align="center">React, Spring Boot, Docker, AWS LightSail</td>
         <td align="center"><a href="https://github.com/eziquexx/team-hotel-reservation-backend">이동</a></td>
         <td align="center"><a href="http://52.78.8.37/">이동</a></td>
       </tr>
@@ -114,13 +114,10 @@
     <b>Forntend</b>는 내가 구현한 결과를 눈으로 바로 확인할 수 있다는 점이 매력적이고 재밌습니다.<br>
     <b>Backend</b>는 눈에 바로 보이지는 않지만, 어떻게 동작하게 만들지, <br>어떻게 데이터를 효율적으로 처리하고 저장할지, 어떻게 예외 상황을 처리할지 등 고민하고 <br>풀어나가는 과정이 재밌습니다.<br><br>
   </p>
+  <h3>이메일 및 개발 블로그</h3>
   <p>
-    👉 <b>자세한 이력서 및 포트폴리오 설명은 노션에 있습니다!</b><br>
-    <a href="https://dev-jelee.notion.site/dev-jelee-5686cfa35c1b4c859a27de25d5fad5dd?source=copy_link">Notion Resume&Portfolio</a>
-    <br><br>
     <a href="mailto:waftyann@gmail.com"><img height="22" width="22" src="https://cdn.simpleicons.org/gmail" /></a>&nbsp&nbsp&nbsp
     <a href="https://dev-jelee.tistory.com/"><img height="19" width="19" src="https://cdn.simpleicons.org/tistory/orangered" /></a>&nbsp&nbsp&nbsp
-    <a href="https://discordapp.com/users/1334168876505763872"><img height="24" width="24" src="https://cdn.simpleicons.org/discord" /></a>
   </p>
   <br><br>
   -----------------------------------------------------------------
