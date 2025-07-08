@@ -58,15 +58,6 @@
         <td align="center"><a href="http://52.78.8.37/">이동</a></td>
       </tr>
       <tr>
-        <td align="center">24.09~24.09</td>
-        <td align="center">Mini</td>
-        <td align="center">개인 포폴 웹사이트</td>
-        <td>반응형+동적 구현(JavaScript)</td>
-        <td align="center">HTML5, CSS3, JavaScript</td>
-        <td align="center"><a href="https://github.com/eziquexx/mini-personal-website">이동</a></td>
-        <td align="center"><a href="https://eziquexx.github.io/mini-personal-website/">이동</a></td>
-      </tr>
-      <tr>
         <td align="center">24.06~24.08</td>
         <td align="center">Mini</td>
         <td align="center">요가원 싱글페이지</td>
@@ -142,4 +133,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<tr>
+  <td align="center">24.09~24.09</td>
+  <td align="center">Mini</td>
+  <td align="center">개인 포폴 웹사이트</td>
+  <td>반응형+동적 구현(JavaScript)</td>
+  <td align="center">HTML5, CSS3, JavaScript</td>
+  <td align="center"><a href="https://github.com/eziquexx/mini-personal-website">이동</a></td>
+  <td align="center"><a href="https://eziquexx.github.io/mini-personal-website/">이동</a></td>
+</tr>
 -->
