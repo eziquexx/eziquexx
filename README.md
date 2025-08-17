@@ -31,6 +31,15 @@
     </thead>
     <tbody>
       <tr>
+        <td align="center">25.08~진행중</td>
+        <td align="center">Mini</td>
+        <td align="center">도서관 관리 시스템</td>
+        <td>React+Spring Boot로 만든 도서관 관리 시스템</td>
+        <td align="center">React, SpringBoot</td>
+        <td align="center"><a href="https://github.com/eziquexx/mini-library-management-system">이동</a></td>
+        <td align="center">-</td>
+      </tr>
+      <tr>
         <td align="center">25.07~25.07</td>
         <td align="center">Toy</td>
         <td align="center">도서 관리 시스템</td>
