@@ -11,6 +11,11 @@
     이런 경험이 쌓일수록 개발이 더 흥미롭고, 제 길이라는 확신이 들었습니다.
   </p>
   <br>
+  <p>
+    이력서 및 포트폴리오 ▼ <br>
+    <a href="https://dev-jelee.notion.site/dev-jelee-5686cfa35c1b4c859a27de25d5fad5dd?pvs=4">Notion Resume & Portfolio</a>
+  </p>
+  <br>
   <h3>🛠️ 경험해본 기술</h3>
   <p>
     <b>Frontend:</b> HTML5, CSS3, JavaScript, jQuery, React<br>
