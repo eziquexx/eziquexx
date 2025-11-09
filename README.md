@@ -13,7 +13,7 @@
   <br>
   <p>
     이력서 및 포트폴리오 ▼ <br>
-    <a href="https://dev-jelee.notion.site/DEV-JIEUN-LEE-Resume-269d0316bc6880a18188f2a3bcf99b05?source=copy_link">Notion Resume & Portfolio</a>
+    <a href="https://dev-jelee.notion.site/Developer-Jieun-Lee-2a6d0316bc6880a39e5ae8b87a10d390?source=copy_link">Notion Resume & Portfolio</a>
   </p>
   <br>
   <h3>🛠️ 경험해본 기술</h3>
